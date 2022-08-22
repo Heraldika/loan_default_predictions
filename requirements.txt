@@ -1,0 +1,8 @@
+fastapi==0.75.1
+joblib==1.1.0
+lightgbm==3.3.2
+numpy==1.22.3
+pandas==1.4.2
+starlette==0.17.1
+uvicorn==0.17.6
+gunicorn
